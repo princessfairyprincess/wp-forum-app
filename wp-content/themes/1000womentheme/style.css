@@ -1,0 +1,167 @@
+/*
+ Theme Name:   1000 Women App
+ Template:     SiteOrigin-Corp
+*/
+
+.site-header .site-branding img {
+  width: 15%;
+  text-align: center;
+}
+
+#mobile-menu-button svg {
+  width: 100px;
+  height: 60px;
+}
+
+#site-navigation.main-navigation {
+  padding-top: 0px;
+  height: 100%;
+  display: flex;
+}
+
+img {
+  text-align: center;
+}
+
+#panel-8-0-0-0.so-panel.widget.widget_media_image.panel-first-child.panel-last-child {
+  text-align: center;
+}
+
+#masthead.site-header {
+  background-color: rgba(0,0,0,0);
+  border-bottom: none;
+}
+
+#page.site {
+  background: #ffffff;
+  /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover, #ffffff 0%, #ffc600 100%);
+  /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover, #ffffff 0%,#ffc600 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center, #ffffff 0%,#ffc600 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffc600',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+#colophon.site-footer {
+  display: none;
+}
+
+#page.site {
+  height: 100%;
+}
+
+#panel-30-0-0-0.so-panel.widget.widget_bbp_topics_widget.widget_display_topics.panel-first-child {
+  background-color: #A388B5;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
+}
+
+#panel-30-0-0-0 > ul > li {
+  list-style: none;
+  background-color: white;
+  padding: 2%;
+  margin-bottom: 3%;
+}
+
+#panel-30-0-0-0 > ul {
+	padding-left: 0px;
+  margin-left: 0;
+}
+
+#panel-30-0-0-0 > ul > li > div {
+	width: 50%; 
+	float: right;
+  text-align: right;
+  
+}
+
+#panel-30-0-0-0 > ul > li > a {
+	color: #FFC600;
+}
+
+.bbp-author-name {
+	color: #FFC600;
+}
+
+#panel-30-0-0-1.so-panel.widget.widget_bbp_replies_widget.widget_display_replies.panel-last-child {
+  background-color: #A388B5;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
+}
+
+#panel-30-0-0-1 > ul > li {
+  list-style: none;
+  background-color: white;
+  padding: 2%;
+  margin-bottom: 3%;
+}
+
+#panel-30-0-0-1 > ul {
+	padding-left: 0px;
+  margin-left: 0;
+}
+
+#panel-30-0-0-1 > ul > li > div {
+	width: 50%; 
+	float: right;
+  text-align: right;
+  
+}
+
+#panel-30-0-0-1 > ul > li > a {
+	color: #FFC600;
+}
+
+#panel-30-0-0-1.so-panel.widget.widget_bbp_replies_widget.widget_display_replies.panel-last-child {
+  
+}
+
+.panel-grid-cell .widget-title {
+  color: white;
+}
+
+#post-0.post-0.forum.type-forum.status-publish.hentry.post {
+  width: 100%;
+  padding: 3%;
+  border: none;
+  background-color: #A388B5;
+}
+
+#bbpress-forums li.bbp-body ul.forum {
+  width: 100%;
+}
+
+.archive .entry-title {
+  color: white; 
+}
+
+#bbpress-forums ul.bbp-forums {
+  padding-top: 3% !important;
+  border: none;
+}
+
+div.bbp-template-notice.info {
+  width: 40%;
+  float: left;
+}
+
+#gotoform {
+  width: 40%;
+  float: right;
+  text-align: right;
+}
+
+#gotoform a {
+  background: linear-gradient(to left, #39194d, #582678);
+  color: white;
+  font-size: 20px;
+  padding: 2% 10% 2% 10%;
+  font-family: "Comfortaa";
+}
